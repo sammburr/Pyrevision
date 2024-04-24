@@ -5,9 +5,8 @@ run
 `pyinstaller pyrevision.py`
 
 # Run
-use
 add `.\dist\pyrevision\` to path
-`pyrevision` or `pyrevision.exe` in a terminal
+use `pyrevision` or `pyrevision.exe` in a terminal
 
 # Usage
 Run program to recieve a random topic to revise, based on
