@@ -6,6 +6,7 @@ run
 
 # Run
 use
+add `.\dist\pyrevision\` to path
 `pyrevision` or `pyrevision.exe` in a terminal
 
 # Usage
